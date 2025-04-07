@@ -14,7 +14,7 @@ const About = () => {
             <div className="md:w-1/3 mb-10 md:mb-0 flex justify-center" data-aos="fade-right">
               <div className="relative w-64 h-64 rounded-lg overflow-hidden shadow-xl">
                 <img
-                  src="/HAMMAD1.jpg"
+                  src="/hammad1.jpg"
                   alt="About Hammad"
                   className="w-full h-full object-cover"
                 />
